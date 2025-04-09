@@ -1,4 +1,5 @@
-package com.example.webapp;
-
-public interface IDisplayPOT {
-}
+//package com.example.webapp;
+//
+//public interface IDisplayPOT {
+//
+//}
